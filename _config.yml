@@ -21,8 +21,8 @@ repository               : "https://github.com/burhr2/burhr2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "burhan_passphoto.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/burhan_passphoto.png"
+  name             : "Burhan"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Computer Vision"
   location         : "Rennes, France"
