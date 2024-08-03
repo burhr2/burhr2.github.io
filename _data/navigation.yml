@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "Resume"
+    url: /files/burhan_resume.pdf
+
+  - title: "CV"
+    url: /files/burhan_cv_eng_researcher.pdf   
+
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: https://scholar.google.com/citations?hl=en&user=R0rjhhIAAAAJ&view_op=list_works&sortby=pubdate    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
