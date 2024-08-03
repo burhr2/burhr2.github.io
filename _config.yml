@@ -21,7 +21,7 @@ repository               : "https://github.com/burhr2/burhr2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/burhan_passphoto.png"
+  avatar           : "/images/burhan_passphoto.jpg"
   name             : "Burhan"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Computer Vision"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Burhan Rashid Hussein, PhD
+  linkedin         : "https://www.linkedin.com/in/burhan-rashid-hussein-phd-0387a489/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
