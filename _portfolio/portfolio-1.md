@@ -1,6 +1,6 @@
 ---
 title: "VideoLingua!"
-excerpt: "VideoLingua: Breaking Language Barriers in Video Content<br/><img src='/images/VideoLingua.jpeg'>"
+excerpt: "VideoLingua: Breaking Language Barriers in Video Content<br/><img src='/images/videoLingua.jpeg'>"
 collection: portfolio
 ---
 
